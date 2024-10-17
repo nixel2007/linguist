@@ -1,9 +1,9 @@
 ---
-name: atom-language-1c-bsl
-version: 289454b53797ddc6fe193486c5a08310c214da7e
+name: vsc-language-1c-bsl
+version: 10e5889362637b4e46f5d9bcd9d860b124b660b5
 type: git_submodule
-homepage: https://github.com/xDrivenDevelopment/atom-language-1c-bsl.git
-license: mit
+homepage: https://github.com/1c-syntax/vsc-language-1c-bsl.git
+license: other
 licenses:
 - sources: LICENSE.md
   text: |
@@ -32,4 +32,6 @@ licenses:
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
     OTHER DEALINGS IN THE SOFTWARE.
+- sources: README.md
+  text: "[MIT](https://github.com/1c-syntax/vsc-language-1c-bsl/blob/master/LICENSE.md)"
 notices: []
