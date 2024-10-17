@@ -3,7 +3,7 @@ name: vsc-language-1c-bsl
 version: 10e5889362637b4e46f5d9bcd9d860b124b660b5
 type: git_submodule
 homepage: https://github.com/1c-syntax/vsc-language-1c-bsl.git
-license: other
+license: mit
 licenses:
 - sources: LICENSE.md
   text: |
